@@ -215,6 +215,6 @@ Core expertise:
 
 ## Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/rohitrajanalyticsmind/]
-- GitHub: [https://github.com/RohitRa200/]
+- LinkedIn: https://www.linkedin.com/in/rohitrajanalyticsmind/
+- GitHub: https://github.com/RohitRa200/
 - Email: rohitrajrajrohit60@gmail.com
