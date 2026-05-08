@@ -180,7 +180,7 @@ This dashboard helps lenders:
 ![Executive Summary](page1_executive_summary.png.png)
 
 ## Portfolio Risk Analysis
-![Portfolio Risk Analysis](images/page2_risk_analysis.png)
+![Portfolio Risk Analysis](page2_risk_analysis.png.png)
 
 ## Business Performance Analytics
 ![Business Performance Analytics](images/page3_business_performance.png)
