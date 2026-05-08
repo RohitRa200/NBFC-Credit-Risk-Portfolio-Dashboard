@@ -183,7 +183,7 @@ This dashboard helps lenders:
 ![Portfolio Risk Analysis](page2_risk_analysis.png.png)
 
 ## Business Performance Analytics
-![Business Performance Analytics](images/page3_business_performance.png)
+![Business Performance Analytics](page3_business_performance.png.png)
 
 ---
 
