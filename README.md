@@ -177,7 +177,7 @@ This dashboard helps lenders:
 ## Dashboard Preview
 
 ## Executive Summary
-![Executive Summary](images/page1_executive_summary.png)
+![Executive Summary](page1_executive_summary.png.png)
 
 ## Portfolio Risk Analysis
 ![Portfolio Risk Analysis](images/page2_risk_analysis.png)
